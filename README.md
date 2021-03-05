@@ -9,7 +9,7 @@ next will be 1+2=3,so the fifth number will be 3
 next will be 2+3=2,so the sixth number will be 5
 and so on
 
-#In this code first we will create a fib method so that we can call it n number of times
+#In this code first we will create a fib function so that we can call it n number of times
 Here we check if the number is zero or one if it is the pront the same ,
 next for finding third fib number we will use the older values like fib(2-2)+fib(2+1) ie.fib(0)=0,fib(1)=1 therefore fib(2)=0+1=1
 and so on.
