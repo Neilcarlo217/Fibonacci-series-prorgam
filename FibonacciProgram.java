@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test1{
+public class Fibonacci{
 	public static int fib(int n){#function
 	if(n == 0)
 	{
